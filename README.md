@@ -25,4 +25,4 @@ username: `airflow`
 password: `airflow`
 
 ## Sources
-[Running Airflow in Docker](https://Airflow.apache.org/docs/apache-Airflow/stable/start/docker.html)
+[Running Airflow in Docker](https://Airflow.apache.org/docs/apache-airflow/stable/start/docker.html)
